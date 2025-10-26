@@ -1,4 +1,4 @@
 # project1
 this is my first git repository.
 <br>
-Author - rani kumari
+Author - rani kumari(my name)
